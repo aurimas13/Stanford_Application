@@ -9,7 +9,7 @@
   <a href="https://img.shields.io/github/last-commit/aurimas13/Stanford_Application"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/Stanford_Application?style=social"/></a>
   <a href="https://img.shields.io/github/stars/aurimas13/Stanford_Application"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/Stanford_Application?style=social"/></a>
   <!-- <a href="https://img.shields.io/github/forks/aurimas13/Stanford_Application"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/Stanford_Application?style=social"/> -->
-  <a href="https://twitter.com/AurimasNausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/AurimasNausedas?style=social"/></a>
+  <a href="https://twitter.com/aanausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aanausedas?style=social"/></a>
 
 **Hello and welcome!** I share my journey towards applying to Stanford University. This repository is a unique blend of my personal story, my ambitious research proposal for Stanford, and a showcase of my problem-solving skills through coding challenges.
 
