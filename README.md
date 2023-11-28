@@ -15,14 +15,15 @@
 
 ## 📘 My Personal Story
 
-Dive into my [Personal Journey](https://github.com/aurimas13/MIT_Application/blob/main/BIO_MIT_PS.pdf), where I narrate my aspirations, challenges, and triumphs that have shaped my academic and professional path. From a childhood dream of coming to the United States 🇺🇸 to overcoming significant adversities, my story is one of resilience and determination.
+Dive into my [Personal Journey](https://github.com/aurimas13/Stanford_Application/blob/main/BIO_Stanford_PS.pdf), where I narrate my aspirations, challenges, and triumphs that have shaped my academic and professional path. From a childhood dream of coming to the United States 🇺🇸 to overcoming significant adversities, my story is one of resilience and determination.
 
 - 🎥 Coming Soon: Watch the video version of my story for a more immersive experience.
 
 ## 🧬 Research Proposal for MIT
-Explore my [Research Proposal](https://github.com/aurimas13/MIT_Application/blob/main/Research_Proposal_MIT.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
+Explore my [Research Proposal](https://github.com/aurimas13/Stanford_Application/blob/main/Research_Proposal_Stanford.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
 
 ## 🖥️ LeetCode Problem Solving
 As a testament to my analytical and coding skills, check out my [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems) repository, where I have solved over 500 coding problems and still counting. 
 
 - 🎥 Coming Soon: Watch some of these solutions come to life in video format, demonstrating my approach to complex problem-solving.
+
