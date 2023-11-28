@@ -26,4 +26,3 @@ Explore my [Research Proposal](https://github.com/aurimas13/Stanford_Application
 As a testament to my analytical and coding skills, check out my [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems) repository, where I have solved over 500 coding problems and still counting. 
 
 - 🎥 Coming Soon: Watch some of these solutions come to life in video format, demonstrating my approach to complex problem-solving.
-
