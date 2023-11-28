@@ -19,8 +19,8 @@ Dive into my [Personal Journey](https://github.com/aurimas13/Stanford_Applicatio
 
 - 🎥 Coming Soon: Watch the video version of my story for a more immersive experience.
 
-## 🧬 Research Proposal for Stanford
-Explore my [Research Proposal](https://github.com/aurimas13/Stanford_Application/blob/main/Research_Proposal_Stanford.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
+## 🧬 Research Proposal
+Explore my [Research Proposal for Stanford](https://github.com/aurimas13/Stanford_Application/blob/main/Research_Proposal_Stanford.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
 
 ## 🖥️ A Problem A Day
 As a testament to my analytical and coding skills, check out my [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems) repository, where I solve computational problem a day and have solved over 500 problems to date. Still counting. 
