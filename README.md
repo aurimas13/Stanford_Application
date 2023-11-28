@@ -13,7 +13,7 @@
 
 **Hello and welcome!** I share my journey towards applying to Stanford University. This repository is a unique blend of my personal story, my ambitious research proposal for Stanford, and a showcase of my problem-solving skills through coding challenges.
 
-## 📘 My Personal Story
+## 📘 Personal Story
 
 Dive into my [Personal Journey](https://github.com/aurimas13/Stanford_Application/blob/main/BIO_Stanford_PS.pdf), where I narrate my aspirations, challenges, and triumphs that have shaped my academic and professional path. From a childhood dream of coming to the United States 🇺🇸 to overcoming significant adversities, my story is one of resilience and determination.
 
