@@ -1,14 +1,14 @@
 <p align=center>
-  <img height="222px" src="https://github.com/aurimas13/MIT_Application/blob/main/public/logo.jpeg"/>
+  <img height="222px" src="https://github.com/aurimas13/Stanford_Application/blob/main/Public/logo.jpeg"/>
 </p>
-<h1 align="center"> Welcome to My MIT Application Journey 🚀 </h1>
-<p align="center"> Hello and welcome to MIT story. </p>
-<p align="center"> Featuring dazzling <b> Personal Story </b> to challenges on <b> LeetCode </b> & a Proposal. Be a part of the journey. </p>
+<h1 align="center"> Welcome to My Stanford Application Journey 🚀 </h1>
+<p align="center"> Hello and welcome to my Stanford story. </p>
+<p align="center"> Featuring dazzling <b> Personal Story </b> to challenges on <b> LeetCode </b> & a Proposal. Be a part of this journey. </p>
 <br>
 <p align=center>
-  <a href="https://img.shields.io/github/last-commit/aurimas13/MIT_Application"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/MIT_Application?style=social"/></a>
-  <a href="https://img.shields.io/github/stars/aurimas13/MIT_Application"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/MIT_Application?style=social"/></a>
-  <a href="https://img.shields.io/github/forks/aurimas13/MIT_Application"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/MIT_Application?style=social"/>
+  <a href="https://img.shields.io/github/last-commit/aurimas13/Stanford_Application"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/Stanford_Application?style=social"/></a>
+  <a href="https://img.shields.io/github/stars/aurimas13/Stanford_Application"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/Stanford_Application?style=social"/></a>
+  <a href="https://img.shields.io/github/forks/aurimas13/Stanford_Application"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/Stanford_Application?style=social"/>
   <a href="https://twitter.com/AurimasNausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/AurimasNausedas?style=social"/></a>
 
 **Hello and welcome!** I share my journey towards applying to MIT. This repository is a unique blend of my personal story, my ambitious research proposal for MIT, and a showcase of my problem-solving skills through coding challenges.
