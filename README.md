@@ -11,7 +11,7 @@
   <a href="https://img.shields.io/github/forks/aurimas13/Stanford_Application"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/Stanford_Application?style=social"/>
   <a href="https://twitter.com/AurimasNausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/AurimasNausedas?style=social"/></a>
 
-**Hello and welcome!** I share my journey towards applying to MIT. This repository is a unique blend of my personal story, my ambitious research proposal for MIT, and a showcase of my problem-solving skills through coding challenges.
+**Hello and welcome!** I share my journey towards applying to Stanford University. This repository is a unique blend of my personal story, my ambitious research proposal for Stanford, and a showcase of my problem-solving skills through coding challenges.
 
 ## 📘 My Personal Story
 
@@ -19,7 +19,7 @@ Dive into my [Personal Journey](https://github.com/aurimas13/Stanford_Applicatio
 
 - 🎥 Coming Soon: Watch the video version of my story for a more immersive experience.
 
-## 🧬 Research Proposal for MIT
+## 🧬 Research Proposal for Stanford
 Explore my [Research Proposal](https://github.com/aurimas13/Stanford_Application/blob/main/Research_Proposal_Stanford.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
 
 ## 🖥️ LeetCode Problem Solving
