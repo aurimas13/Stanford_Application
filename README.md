@@ -26,3 +26,57 @@ Explore my [Research Proposal](https://github.com/aurimas13/Stanford_Application
 As a testament to my analytical and coding skills, check out my [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems) repository, where I have solved over 500 coding problems and still counting. 
 
 - 🎥 Coming Soon: Watch some of these solutions come to life in video format, demonstrating my approach to complex problem-solving.
+
+## Grouped GitHub Projects/Repositories
+
+### 🎓 Teaching and Education
+In this category, you'll find projects related to teaching and educational resources. These include comprehensive courses, learning materials, and lecture content designed to facilitate learning in various domains of technology and programming.
+ 
+- [Python Beginner Course](https://github.com/aurimas13/Python-Beginner-Course)  
+- [CodeAcademy AI Course](https://github.com/aurimas13/CodeAcademy-AI-Course)  
+- [Pazink Dirbtini Intelekta](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta) 
+
+### 💻 Software and Web Development
+This group showcases my work in software and web development, ranging from full-stack web applications to utility programs and APIs. These projects demonstrate a range of skills in different programming languages and frameworks.
+
+- [Communication of Services](https://github.com/aurimas13/Communication-of-Services)  
+- [Road App](https://github.com/aurimas13/Road-App)  
+- [Web Programs](https://github.com/aurimas13/Web-programs)  
+- [Time Tracker](https://github.com/aurimas13/Time-Tracker)  
+
+### 📊 Artificial Intelligence, Data Science and Machine Learning
+Here, you'll find projects that delve into data science, machine learning, artificial intelligence and analytics. These include predictive modeling, data analysis, and exploratory projects using various datasets and machine learning techniques.
+
+- [Machine Learning Goodness](https://github.com/aurimas13/Machine-Learning-Goodness) 
+- [Revenue Forecast](https://github.com/aurimas13/Revenue-Forecast)  
+- [Covid-19 Project](https://github.com/aurimas13/Covid-19-project)  
+- [CTR Prediction](https://github.com/aurimas13/CTR-prediction)  
+- [Spotify Track Analysis](https://github.com/aurimas13/Spotify-track-analysis)  
+- [Coursera Courses Analysis](https://github.com/aurimas13/Coursera-courses-analysis)  
+
+### 🧪 Science and Research
+This category includes projects that are more research-oriented, often involving scientific analysis, chemical studies, and exploratory data analysis in various scientific domains.
+
+- [Smiles Analysis](https://github.com/aurimas13/Smiles-analysis)  
+- [Chemical Analysis](https://github.com/aurimas13/Chemical-analysis)  
+
+### 🛠️ Utility and Tools
+Projects under this category are focused on creating utilities and tools for various purposes, such as reminders, calculators, and other helpful software.
+
+- [Birthday Reminder App](https://github.com/aurimas13/BirthdayReminderApp)  
+- [Calculator Program](https://github.com/aurimas13/Calculator-program)  
+
+### 📘 Solutions and Exercises
+This section contains my solutions to various programming exercises and problems. It showcases my problem-solving skills in different programming languages.
+
+- [CSharp Solutions](https://github.com/aurimas13/CSharp-solutions)  
+- [Java Solutions](https://github.com/aurimas13/Java-solutions)  
+- [Python Solutions](https://github.com/aurimas13/Python-solutions)  
+- [C/C++ Solutions](https://github.com/aurimas13/C-solutions)  
+- [CSharp Advanced Solutions](https://github.com/aurimas13/CSharp-advanced-solutions)  
+- [Solutions To Problems](https://github.com/aurimas13/Solutions-To-Problems)  
+
+### 🌐 Personal and Miscellaneous
+This group includes my personal profile that showcase a range of interests and skills outside the specific categories mentioned above.
+
+- [Aurimas/Alex's Profile](https://github.com/aurimas13/aurimas13)   
