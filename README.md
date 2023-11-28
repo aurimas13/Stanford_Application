@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> Welcome to my Stanford  Journey 🚀 </h1>
 <p align="center"> Hello and welcome to my Stanford Application story. </p>
-<p align="center"> Featuring dazzling <b> Personal Story </b> to challenges on <b> LeetCode </b> & a Proposal. Be a part of this journey. </p>
+<p align="center"> Featuring a <b> Personal Story </b> to videos of challenges on <b> LeetCode </b> & a Research Proposal. Be a part of this journey. </p>
 <br>
 <p align=center>
   <a href="https://img.shields.io/github/last-commit/aurimas13/Stanford_Application"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/Stanford_Application?style=social"/></a>
