@@ -1,8 +1,8 @@
 <p align=center>
   <img height="222px" src="https://github.com/aurimas13/Stanford_Application/blob/main/Public/logo.jpeg"/>
 </p>
-<h1 align="center"> Welcome to My Stanford Application Journey 🚀 </h1>
-<p align="center"> Hello and welcome to my Stanford story. </p>
+<h1 align="center"> Welcome to my Stanford Application Journey 🚀 </h1>
+<p align="center"> Hello and welcome to my Stanford jorney. </p>
 <p align="center"> Featuring dazzling <b> Personal Story </b> to challenges on <b> LeetCode </b> & a Proposal. Be a part of this journey. </p>
 <br>
 <p align=center>
