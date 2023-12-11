@@ -15,7 +15,7 @@
 
 ## 📘 Personal Story
 
-Dive into my [Personal Journey](https://github.com/aurimas13/Stanford_Application/blob/main/BIO_Stanford_PS.pdf), where I narrate my aspirations, challenges, and triumphs that have shaped my academic and professional path. From a childhood dream of coming to the United States 🇺🇸 to overcoming significant adversities, my story is one of resilience and determination.
+Dive into my [Personal Journey](https://github.com/aurimas13/Stanford_Application/blob/main/Personal_Story_Stanford.pdf), where I narrate my aspirations, challenges, and triumphs that have shaped my academic and professional path. From a childhood dream of coming to the United States 🇺🇸 to overcoming significant adversities, my story is one of resilience and determination.
 
 - 🎥 Coming Soon: Watch the video version of my story for a more immersive experience.
 
