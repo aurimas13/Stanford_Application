@@ -17,8 +17,6 @@
 
 Dive into my [Personal Journey](https://github.com/aurimas13/Stanford_Application/blob/main/Personal_Story_Stanford.pdf), where I narrate my aspirations, challenges, and triumphs that have shaped my academic and professional path. From a childhood dream of coming to the United States 🇺🇸 to overcoming significant adversities, my story is one of resilience and determination.
 
-- 🎥 The first video solution of a hard diffulty problem showing how I handled it, demonstrating my approach to problem-solving can be accesed through [here](https://github.com/aurimas13/Stanford_Application/tree/main/Video/1_Solution_Hard.mp4) or watched through website [here](https://www.loom.com/share/b8d29d93edbc4d8e8ed12dc4a328f0f8?sid=34ae80d3-46e1-4b6b-9045-0781bfa6ba9a) while the actual solution and the problem description can be accesed through [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions/Arithmetic%20Slices%20II%20-%20Subsequence).
-
 ## 🧬 Research Proposal
 Explore my [Research Proposal for Stanford](https://github.com/aurimas13/Stanford_Application/blob/main/Research_Proposal_Stanford.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
 
@@ -80,5 +78,3 @@ This section contains my solutions to various programming exercises and problems
 This group includes my personal profile that showcase a range of interests and skills outside the specific categories mentioned above.
 
 - [Aurimas/Alex's Profile](https://github.com/aurimas13/aurimas13)   
-
-
