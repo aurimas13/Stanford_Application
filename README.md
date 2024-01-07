@@ -17,7 +17,7 @@
 
 Dive into my [Personal Journey](https://github.com/aurimas13/Stanford_Application/blob/main/Personal_Story_Stanford.pdf), where I narrate my aspirations, challenges, and triumphs that have shaped my academic and professional path. From a childhood dream of coming to the United States 🇺🇸 to overcoming significant adversities, my story is one of resilience and determination.
 
-- 🎥 The first video solution of a hard diffulty problem showing how I handled it, demonstrating my approach to problem-solving can be accesed through [here](https://github.com/aurimas13/Stanford_Application/tree/main/Video/1_Solution_Hard.mp4) or watched through website [here](https://www.loom.com/share/b8d29d93edbc4d8e8ed12dc4a328f0f8?sid=34ae80d3-46e1-4b6b-9045-0781bfa6ba9a) while the actual solution and problem description can be accesed through [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions/Arithmetic%20Slices%20II%20-%20Subsequence).
+- 🎥 The first video solution of a hard diffulty problem showing how I handled it, demonstrating my approach to problem-solving can be accesed through [here](https://github.com/aurimas13/Stanford_Application/tree/main/Video/1_Solution_Hard.mp4) or watched through website [here](https://www.loom.com/share/b8d29d93edbc4d8e8ed12dc4a328f0f8?sid=34ae80d3-46e1-4b6b-9045-0781bfa6ba9a) while the actual solution and the problem description can be accesed through [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions/Arithmetic%20Slices%20II%20-%20Subsequence).
 
 https://github.com/aurimas13/Stanford_Application/tree/main/Video
 
