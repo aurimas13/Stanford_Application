@@ -23,7 +23,7 @@ Explore my [Research Proposal for Stanford](https://github.com/aurimas13/Stanfor
 ## 🖥️ A Problem A Day
 As a testament to my analytical and coding skills, check out my [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems) repository, where I solve computational problem a day and have solved over 500 problems to date. Still counting. 
 
-- 🎥 Coming Soon: Watch some of these solutions come to life in video format, demonstrating my approach to complex problem-solving.
+- 🎥 The first video solution of a hard diffulty problem showing how I handled it, demonstrating my approach to problem-solving can be accesed through [here](https://github.com/aurimas13/Stanford_Application/tree/main/Video/1_Solution_Hard.mp4) or watched through website [here](https://www.loom.com/share/b8d29d93edbc4d8e8ed12dc4a328f0f8?sid=34ae80d3-46e1-4b6b-9045-0781bfa6ba9a) while the actual solution and the problem description can be accesed through [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions/Arithmetic%20Slices%20II%20-%20Subsequence).
 
 ## Grouped GitHub Projects/Repositories
 
